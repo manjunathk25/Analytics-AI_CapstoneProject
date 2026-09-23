@@ -1,0 +1,53 @@
+partner_id,city,primary_category,rating,active,days_since_onboarding
+P015,Mumbai,Salon for Women,4.7,True,295
+P006,Bengaluru,AC Repair & Service,3.6,True,428
+P043,Chennai,Plumbing,4.8,True,190
+P038,Hyderabad,Electrical Repair,4.0,True,250
+P049,Pune,Plumbing,0.0,True,4
+P018,Delhi NCR,Deep Home Cleaning,4.8,True,367
+P021,Delhi NCR,AC Repair & Service,4.8,True,390
+P045,Chennai,Deep Home Cleaning,3.5,True,99
+P046,Chennai,Deep Home Cleaning,4.5,True,236
+P023,Delhi NCR,Salon for Women,3.7,True,237
+P010,Mumbai,Salon for Men,4.9,True,413
+P017,Delhi NCR,Electrical Repair,4.2,True,187
+P024,Delhi NCR,AC Repair & Service,4.5,True,418
+P040,Hyderabad,Salon for Men,4.6,True,333
+P003,Bengaluru,AC Repair & Service,4.4,True,317
+P014,Mumbai,Electrical Repair,3.8,True,251
+P030,Pune,Electrical Repair,4.8,True,400
+P004,Bengaluru,Electrical Repair,4.5,True,431
+P019,Delhi NCR,Plumbing,5.0,True,115
+P033,Hyderabad,Plumbing,4.7,True,427
+P044,Chennai,Electrical Repair,4.0,True,245
+P042,Chennai,Deep Home Cleaning,3.5,True,245
+P037,Hyderabad,Deep Home Cleaning,3.8,True,475
+P002,Bengaluru,Salon for Men,4.9,True,229
+P047,Chennai,Plumbing,4.0,True,231
+P022,Delhi NCR,Plumbing,3.9,True,69
+P028,Pune,Electrical Repair,3.4,True,178
+P031,Pune,Salon for Women,3.6,True,151
+P029,Pune,Deep Home Cleaning,4.7,True,435
+P034,Hyderabad,Salon for Women,4.8,True,107
+P007,Bengaluru,Deep Home Cleaning,4.4,True,47
+P041,Chennai,Plumbing,3.7,True,228
+P016,Mumbai,Salon for Men,4.3,True,328
+P048,Chennai,Plumbing,3.7,True,177
+P032,Pune,Deep Home Cleaning,4.5,True,296
+P011,Mumbai,Deep Home Cleaning,4.2,True,265
+P001,Bengaluru,AC Repair & Service,4.9,True,197
+P026,Pune,Salon for Men,3.6,True,99
+P031,Pune,Salon for Women,3.6,True,151
+P013,Mumbai,AC Repair & Service,3.7,True,77
+P025,Pune,Deep Home Cleaning,3.6,True,423
+P036,Hyderabad,Salon for Men,4.6,True,376
+P035,Hyderabad,Electrical Repair,3.9,True,85
+P009,Mumbai,Deep Home Cleaning,4.0,True,339
+P008,Bengaluru,Salon for Women,3.8,True,80
+P020,Delhi NCR,Deep Home Cleaning,3.8,True,79
+P003,Bengaluru,AC Repair & Service,4.4,True,317
+P039,Hyderabad,Deep Home Cleaning,4.1,True,446
+P027,Pune,Salon for Women,4.3,True,175
+P017,Delhi NCR,Electrical Repair,4.2,True,187
+P005,Bengaluru,Deep Home Cleaning,4.1,True,113
+P012,Mumbai,AC Repair & Service,3.9,True,264

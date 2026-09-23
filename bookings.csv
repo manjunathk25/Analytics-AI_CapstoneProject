@@ -1,0 +1,601 @@
+booking_id,partner_id,city,category,booking_date,amount_inr,complaint_flag,sla_breach_flag,is_test
+B0001,P041,Chennai,Plumbing,2026-02-03,1369,0,1,0
+B0002,P025,Pune,Deep Home Cleaning,2026-03-17,4608,0,0,0
+B0003,P047,Chennai,Plumbing,2026-02-16,772,0,0,0
+B0004,P047,Chennai,Plumbing,2026-03-02,1133,0,1,0
+B0005,P021,Delhi NCR,AC Repair & Service,2026-01-13,1316,0,0,0
+B0006,P019,Delhi NCR,Plumbing,2026-01-18,805,1,0,0
+B0007,P043,Chennai,Plumbing,2026-02-03,581,0,0,0
+B0008,P041,Chennai,Plumbing,2026-02-03,1438,0,0,0
+B0009,P022,Delhi NCR,Plumbing,2026-03-18,1251,0,0,0
+B0010,P041,Chennai,Plumbing,2026-02-27,418,0,0,0
+B0011,P025,Pune,Deep Home Cleaning,2026-01-05,1268,0,1,0
+B0012,P043,Chennai,Plumbing,2026-03-30,1260,1,0,0
+B0013,P031,Pune,Salon for Women,2026-03-06,3117,0,0,0
+B0014,P029,Pune,Deep Home Cleaning,2026-01-31,4825,0,0,0
+B0015,P043,Chennai,Plumbing,2026-01-18,1146,0,0,0
+B0016,P042,Chennai,Deep Home Cleaning,2026-03-11,3545,0,0,0
+B0017,P028,Pune,Electrical Repair,2026-01-06,308,0,0,0
+B0018,P036,Hyderabad,Salon for Men,2026-03-17,1414,0,0,0
+B0019,P006,Bengaluru,AC Repair & Service,2026-03-16,538,1,0,0
+B0020,P046,Chennai,Deep Home Cleaning,2026-02-03,4774,0,0,0
+B0021,P005,Bengaluru,Deep Home Cleaning,2026-01-18,2860,0,0,0
+B0022,P044,Chennai,Electrical Repair,2026-02-08,1201,0,0,0
+B0023,P047,Chennai,Plumbing,2026-02-10,1034,0,1,0
+B0024,P010,Mumbai,Salon for Men,2026-01-29,1176,0,1,0
+B0025,P029,Pune,Deep Home Cleaning,2026-03-11,3538,0,0,0
+B0026,P023,Delhi NCR,Salon for Women,2026-01-29,2168,1,1,0
+B0027,P003,Bengaluru,AC Repair & Service,2026-01-24,1016,0,0,0
+B0028,P048,Chennai,Plumbing,2026-03-08,1385,0,0,0
+B0029,P002,Bengaluru,Salon for Men,2026-01-27,858,0,0,0
+B0030,P045,Chennai,Deep Home Cleaning,2026-01-31,2816,0,0,0
+B0031,P047,Chennai,Plumbing,2026-01-06,1449,0,0,0
+B0032,P026,Pune,Salon for Men,2026-02-27,638,0,0,0
+B0033,P027,Pune,Salon for Women,2026-02-28,2648,0,0,0
+B0034,P010,Mumbai,Salon for Men,2026-01-13,429,1,0,0
+B0035,P030,Pune,Electrical Repair,2026-02-27,587,0,0,0
+B0036,P004,Bengaluru,Electrical Repair,2026-03-08,403,0,0,0
+B0037,P045,Chennai,Deep Home Cleaning,2026-02-14,3324,0,0,1
+B0038,P039,Hyderabad,Deep Home Cleaning,2026-01-18,2762,1,1,0
+B0039,P032,Pune,Deep Home Cleaning,2026-01-13,2557,0,0,0
+B0040,P025,Pune,Deep Home Cleaning,2026-01-02,2063,0,0,0
+B0041,P045,Chennai,Deep Home Cleaning,2026-02-11,1313,0,0,0
+B0042,P010,Mumbai,Salon for Men,2026-01-08,424,0,0,0
+B0043,P020,Delhi NCR,Deep Home Cleaning,2026-02-16,4548,1,0,0
+B0044,P028,Pune,Electrical Repair,2026-01-01,595,0,0,0
+B0045,P028,Pune,Electrical Repair,2026-03-11,252,0,0,0
+B0046,P035,Hyderabad,Electrical Repair,2026-02-20,669,0,0,0
+B0047,P014,Mumbai,Electrical Repair,2026-01-28,787,0,1,0
+B0048,P009,Mumbai,Deep Home Cleaning,2026-01-21,1231,0,0,0
+B0049,P020,Delhi NCR,Deep Home Cleaning,2026-02-28,2897,0,0,0
+B0050,P032,Pune,Deep Home Cleaning,2026-02-01,2577,0,0,0
+B0051,P047,Chennai,Plumbing,2026-03-16,409,1,0,0
+B0052,P031,Pune,Salon for Women,2026-01-15,3355,0,0,0
+B0053,P041,Chennai,Plumbing,2026-01-17,326,0,0,0
+B0054,P034,Hyderabad,Salon for Women,2026-02-18,2589,1,0,0
+B0055,P021,Delhi NCR,AC Repair & Service,2026-01-17,1505,0,0,0
+B0056,P017,Delhi NCR,Electrical Repair,2026-01-06,1342,0,0,0
+B0057,P003,Bengaluru,AC Repair & Service,2026-03-12,2351,0,0,0
+B0058,P026,Pune,Salon for Men,2026-02-20,986,0,0,0
+B0059,P010,Mumbai,Salon for Men,2026-01-11,594,0,0,0
+B0060,P008,Bengaluru,Salon for Women,2026-03-12,2552,0,0,0
+B0061,P028,Pune,Electrical Repair,2026-02-05,1593,0,0,0
+B0062,P021,Delhi NCR,AC Repair & Service,2026-02-07,1631,0,0,0
+B0063,P023,Delhi NCR,Salon for Women,2026-03-11,772,0,0,0
+B0064,P044,Chennai,Electrical Repair,2026-02-02,637,0,0,0
+B0065,P009,Mumbai,Deep Home Cleaning,2026-03-02,2504,0,0,0
+B0066,P002,Bengaluru,Salon for Men,2026-02-02,477,0,0,0
+B0067,P006,Bengaluru,AC Repair & Service,2026-01-31,1194,0,0,0
+B0068,P004,Bengaluru,Electrical Repair,2026-02-08,1369,0,0,0
+B0069,P005,Bengaluru,Deep Home Cleaning,2026-01-15,2308,0,0,0
+B0070,P027,Pune,Salon for Women,2026-01-04,2942,0,0,0
+B0071,P015,Mumbai,Salon for Women,2026-01-07,838,0,0,0
+B0072,P025,Pune,Deep Home Cleaning,2026-01-13,4446,1,0,0
+B0073,P023,Delhi NCR,Salon for Women,2026-01-26,754,0,0,0
+B0074,P047,Chennai,Plumbing,2026-01-17,674,0,0,0
+B0075,P005,Bengaluru,Deep Home Cleaning,2026-02-19,1211,0,0,0
+B0076,P023,Delhi NCR,Salon for Women,2026-02-13,1602,0,1,0
+B0077,P018,Delhi NCR,Deep Home Cleaning,2026-03-03,2767,0,0,0
+B0078,P048,Chennai,Plumbing,2026-01-08,948,0,0,0
+B0079,P012,Mumbai,AC Repair & Service,2026-02-16,845,0,0,0
+B0080,P035,Hyderabad,Electrical Repair,2026-03-14,1476,0,0,0
+B0081,P039,Hyderabad,Deep Home Cleaning,2026-03-04,4815,0,0,0
+B0082,P030,Pune,Electrical Repair,2026-03-14,1381,0,0,0
+B0083,P032,Pune,Deep Home Cleaning,2026-03-12,1636,0,0,0
+B0084,P013,Mumbai,AC Repair & Service,2026-02-09,2061,0,0,0
+B0085,P030,Pune,Electrical Repair,2026-03-14,393,1,0,0
+B0086,P037,Hyderabad,Deep Home Cleaning,2026-02-28,4468,0,0,0
+B0087,P034,Hyderabad,Salon for Women,2026-02-15,3235,0,0,0
+B0088,P010,Mumbai,Salon for Men,2026-03-17,903,0,0,0
+B0089,P008,Bengaluru,Salon for Women,2026-02-14,899,0,0,0
+B0090,P013,Mumbai,AC Repair & Service,2026-01-12,1170,0,0,0
+B0091,P044,Chennai,Electrical Repair,2026-02-11,1743,0,1,0
+B0092,P013,Mumbai,AC Repair & Service,2026-02-26,600,0,0,0
+B0093,P021,Delhi NCR,AC Repair & Service,2026-01-24,2259,0,0,0
+B0094,P004,Bengaluru,Electrical Repair,2026-03-08,404,1,0,0
+B0095,P007,Bengaluru,Deep Home Cleaning,2026-03-28,4534,0,0,0
+B0096,P004,Bengaluru,Electrical Repair,2026-01-31,344,0,0,0
+B0097,P005,Bengaluru,Deep Home Cleaning,2026-03-31,4555,0,0,0
+B0098,P007,Bengaluru,Deep Home Cleaning,2026-02-20,2278,0,1,0
+B0099,P032,Pune,Deep Home Cleaning,2026-01-13,3983,1,1,0
+B0100,P010,Mumbai,Salon for Men,2026-03-28,507,0,1,0
+B0101,P010,Mumbai,Salon for Men,2026-01-29,536,0,0,0
+B0102,P038,Hyderabad,Electrical Repair,2026-03-20,1764,0,0,0
+B0103,P041,Chennai,Plumbing,2026-01-30,741,0,0,0
+B0104,P007,Bengaluru,Deep Home Cleaning,2026-03-01,2420,1,0,0
+B0105,P041,Chennai,Plumbing,2026-02-21,484,0,0,0
+B0106,P033,Hyderabad,Plumbing,2026-01-21,711,0,0,0
+B0107,P001,Bengaluru,AC Repair & Service,2026-02-26,965,0,0,0
+B0108,P020,Delhi NCR,Deep Home Cleaning,2026-03-11,3136,0,0,0
+B0109,P046,Chennai,Deep Home Cleaning,2026-01-13,4173,0,0,0
+B0110,P005,Bengaluru,Deep Home Cleaning,2026-03-17,1424,0,0,0
+B0111,P011,Mumbai,Deep Home Cleaning,2026-02-17,1118,0,0,0
+B0112,P020,Delhi NCR,Deep Home Cleaning,2026-01-08,1640,0,0,0
+B0113,P005,Bengaluru,Deep Home Cleaning,2026-01-02,2317,0,0,0
+B0114,P040,Hyderabad,Salon for Men,2026-02-16,1339,0,0,0
+B0115,P004,Bengaluru,Electrical Repair,2026-03-14,1815,1,0,0
+B0116,P028,Pune,Electrical Repair,2026-01-15,1403,0,0,0
+B0117,P015,Mumbai,Salon for Women,2026-03-18,2890,0,0,0
+B0118,P026,Pune,Salon for Men,2026-01-09,850,0,0,0
+B0119,P040,Hyderabad,Salon for Men,2026-03-06,504,1,0,0
+B0120,P009,Mumbai,Deep Home Cleaning,2026-01-20,2198,0,0,0
+B0121,P026,Pune,Salon for Men,2026-03-28,1407,0,0,0
+B0122,P004,Bengaluru,Electrical Repair,2026-01-11,1607,1,1,0
+B0123,P038,Hyderabad,Electrical Repair,2026-02-25,1412,0,1,0
+B0124,P032,Pune,Deep Home Cleaning,2026-01-28,4535,0,0,0
+B0125,P029,Pune,Deep Home Cleaning,2026-01-07,1927,0,1,0
+B0126,P017,Delhi NCR,Electrical Repair,2026-03-05,982,0,0,0
+B0127,P048,Chennai,Plumbing,2026-02-28,898,0,0,0
+B0128,P018,Delhi NCR,Deep Home Cleaning,2026-01-05,1697,0,0,0
+B0129,P019,Delhi NCR,Plumbing,2026-03-11,263,0,1,0
+B0130,P030,Pune,Electrical Repair,2026-01-19,812,0,1,0
+B0131,P038,Hyderabad,Electrical Repair,2026-01-14,1789,0,0,0
+B0132,P009,Mumbai,Deep Home Cleaning,2026-03-17,2292,1,0,0
+B0133,P042,Chennai,Deep Home Cleaning,2026-02-15,2275,0,0,0
+B0134,P028,Pune,Electrical Repair,2026-01-23,1502,0,0,0
+B0135,P030,Pune,Electrical Repair,2026-01-20,1767,0,0,0
+B0136,P026,Pune,Salon for Men,2026-01-26,544,0,0,0
+B0137,P037,Hyderabad,Deep Home Cleaning,2026-01-15,4923,0,0,0
+B0138,P019,Delhi NCR,Plumbing,2026-02-16,1122,0,0,0
+B0139,P030,Pune,Electrical Repair,2026-01-09,712,0,0,0
+B0140,P031,Pune,Salon for Women,2026-01-19,2824,0,0,0
+B0141,P025,Pune,Deep Home Cleaning,2026-03-23,1425,0,1,0
+B0142,P036,Hyderabad,Salon for Men,2026-01-04,830,0,1,0
+B0143,P047,Chennai,Plumbing,2026-01-02,1004,1,0,0
+B0144,P009,Mumbai,Deep Home Cleaning,2026-01-25,1280,0,0,0
+B0145,P042,Chennai,Deep Home Cleaning,2026-03-25,2291,1,1,0
+B0146,P004,Bengaluru,Electrical Repair,2026-03-10,438,0,0,0
+B0147,P021,Delhi NCR,AC Repair & Service,2026-01-13,1555,0,0,0
+B0148,P012,Mumbai,AC Repair & Service,2026-02-08,1422,0,1,0
+B0149,P040,Hyderabad,Salon for Men,2026-03-14,672,0,0,0
+B0150,P013,Mumbai,AC Repair & Service,2026-02-26,1943,0,0,0
+B0151,P022,Delhi NCR,Plumbing,2026-03-31,1441,0,0,0
+B0152,P018,Delhi NCR,Deep Home Cleaning,2026-03-06,2430,1,0,0
+B0153,P004,Bengaluru,Electrical Repair,2026-01-13,1076,0,0,0
+B0154,P048,Chennai,Plumbing,2026-01-23,597,0,0,0
+B0155,P028,Pune,Electrical Repair,2026-01-29,1876,0,0,0
+B0156,P027,Pune,Salon for Women,2026-02-18,3352,0,0,0
+B0157,P017,Delhi NCR,Electrical Repair,2026-01-10,1621,0,0,0
+B0158,P043,Chennai,Plumbing,2026-02-20,1309,0,0,0
+B0159,P045,Chennai,Deep Home Cleaning,2026-02-16,1592,0,0,0
+B0160,P027,Pune,Salon for Women,2026-02-05,3109,1,0,0
+B0161,P024,Delhi NCR,AC Repair & Service,2026-03-31,2356,0,0,0
+B0162,P041,Chennai,Plumbing,2026-02-28,738,0,0,0
+B0163,P030,Pune,Electrical Repair,2026-02-17,272,0,0,0
+B0164,P043,Chennai,Plumbing,2026-02-28,666,0,0,0
+B0165,P033,Hyderabad,Plumbing,2026-01-14,1262,0,0,0
+B0166,P030,Pune,Electrical Repair,2026-01-14,270,0,1,0
+B0167,P042,Chennai,Deep Home Cleaning,2026-02-12,2037,0,0,0
+B0168,P025,Pune,Deep Home Cleaning,2026-02-14,2219,0,0,0
+B0169,P040,Hyderabad,Salon for Men,2026-01-05,669,0,0,0
+B0170,P011,Mumbai,Deep Home Cleaning,2026-02-09,1552,0,0,0
+B0171,P011,Mumbai,Deep Home Cleaning,2026-02-20,3956,0,0,0
+B0172,P045,Chennai,Deep Home Cleaning,2026-01-11,2899,0,1,0
+B0173,P019,Delhi NCR,Plumbing,2026-01-22,1147,0,0,0
+B0174,P012,Mumbai,AC Repair & Service,2026-01-22,1476,0,0,0
+B0175,P009,Mumbai,Deep Home Cleaning,2026-03-23,4140,0,0,0
+B0176,P009,Mumbai,Deep Home Cleaning,2026-01-16,2509,0,0,0
+B0177,P043,Chennai,Plumbing,2026-03-10,712,0,0,0
+B0178,P046,Chennai,Deep Home Cleaning,2026-03-11,4595,0,0,0
+B0179,P032,Pune,Deep Home Cleaning,2026-03-29,1975,0,1,0
+B0180,P028,Pune,Electrical Repair,2026-03-18,1258,0,0,0
+B0181,P047,Chennai,Plumbing,2026-01-17,384,0,0,0
+B0182,P023,Delhi NCR,Salon for Women,2026-02-14,2738,0,0,0
+B0183,P004,Bengaluru,Electrical Repair,2026-01-28,1195,0,0,0
+B0184,P043,Chennai,Plumbing,2026-02-12,1004,0,0,0
+B0185,P044,Chennai,Electrical Repair,2026-01-28,1352,0,0,0
+B0186,P005,Bengaluru,Deep Home Cleaning,2026-03-24,4287,0,0,0
+B0187,P036,Hyderabad,Salon for Men,2026-03-26,697,1,0,0
+B0188,P046,Chennai,Deep Home Cleaning,2026-01-18,2802,0,0,0
+B0189,P026,Pune,Salon for Men,2026-01-04,1294,1,0,0
+B0190,P009,Mumbai,Deep Home Cleaning,2026-01-17,4189,0,0,0
+B0191,P040,Hyderabad,Salon for Men,2026-03-23,1165,0,0,0
+B0192,P037,Hyderabad,Deep Home Cleaning,2026-02-27,1041,0,0,0
+B0193,P037,Hyderabad,Deep Home Cleaning,2026-02-25,1473,0,1,0
+B0194,P035,Hyderabad,Electrical Repair,2026-03-07,385,0,0,0
+B0195,P009,Mumbai,Deep Home Cleaning,2026-01-25,3429,0,0,0
+B0196,P003,Bengaluru,AC Repair & Service,2026-02-27,2121,1,0,0
+B0197,P009,Mumbai,Deep Home Cleaning,2026-02-19,3349,0,0,0
+B0198,P045,Chennai,Deep Home Cleaning,2026-02-09,4668,0,0,0
+B0199,P033,Hyderabad,Plumbing,2026-03-02,213,0,0,0
+B0200,P002,Bengaluru,Salon for Men,2026-03-20,1206,0,0,0
+B0201,P004,Bengaluru,Electrical Repair,2026-02-08,712,0,0,0
+B0202,P008,Bengaluru,Salon for Women,2026-03-25,813,0,0,0
+B0203,P011,Mumbai,Deep Home Cleaning,2026-03-05,1670,0,0,0
+B0204,P039,Hyderabad,Deep Home Cleaning,2026-02-16,2755,1,0,0
+B0205,P010,Mumbai,Salon for Men,2026-03-03,574,0,0,0
+B0206,P011,Mumbai,Deep Home Cleaning,2026-01-02,2440,0,0,0
+B0207,P028,Pune,Electrical Repair,2026-01-02,386,0,1,0
+B0208,P044,Chennai,Electrical Repair,2026-01-09,1068,0,0,0
+B0209,P001,Bengaluru,AC Repair & Service,2026-03-11,2493,1,1,0
+B0210,P002,Bengaluru,Salon for Men,2026-02-08,504,0,0,0
+B0211,P025,Pune,Deep Home Cleaning,2026-02-21,3380,1,0,0
+B0212,P002,Bengaluru,Salon for Men,2026-02-27,417,0,0,0
+B0213,P019,Delhi NCR,Plumbing,2026-03-07,376,0,0,0
+B0214,P038,Hyderabad,Electrical Repair,2026-02-25,1439,0,0,1
+B0215,P032,Pune,Deep Home Cleaning,2026-01-28,4717,0,0,0
+B0216,P017,Delhi NCR,Electrical Repair,2026-02-11,1236,0,0,0
+B0217,P010,Mumbai,Salon for Men,2026-01-10,1270,0,0,0
+B0218,P004,Bengaluru,Electrical Repair,2026-01-04,1464,0,1,0
+B0219,P038,Hyderabad,Electrical Repair,2026-01-29,238,0,0,0
+B0220,P040,Hyderabad,Salon for Men,2026-03-10,722,0,0,0
+B0221,P008,Bengaluru,Salon for Women,2026-02-04,1979,0,0,0
+B0222,P047,Chennai,Plumbing,2026-03-20,1316,0,0,0
+B0223,P027,Pune,Salon for Women,2026-01-23,2568,0,0,0
+B0224,P038,Hyderabad,Electrical Repair,2026-03-19,916,0,0,0
+B0225,P045,Chennai,Deep Home Cleaning,2026-03-08,4751,0,0,0
+B0226,P048,Chennai,Plumbing,2026-01-24,982,1,0,0
+B0227,P041,Chennai,Plumbing,2026-02-21,588,1,0,0
+B0228,P041,Chennai,Plumbing,2026-01-12,347,0,0,0
+B0229,P043,Chennai,Plumbing,2026-02-12,535,0,0,0
+B0230,P014,Mumbai,Electrical Repair,2026-01-16,1383,0,0,0
+B0231,P025,Pune,Deep Home Cleaning,2026-02-28,2885,0,0,0
+B0232,P037,Hyderabad,Deep Home Cleaning,2026-01-12,1827,1,0,0
+B0233,P047,Chennai,Plumbing,2026-02-21,922,0,0,0
+B0234,P012,Mumbai,AC Repair & Service,2026-02-15,1393,0,0,0
+B0235,P007,Bengaluru,Deep Home Cleaning,2026-01-18,2063,0,0,0
+B0236,P027,Pune,Salon for Women,2026-03-17,3116,0,0,0
+B0237,P028,Pune,Electrical Repair,2026-01-27,1386,1,0,0
+B0238,P005,Bengaluru,Deep Home Cleaning,2026-02-11,1127,0,1,0
+B0239,P033,Hyderabad,Plumbing,2026-01-18,841,0,0,0
+B0240,P028,Pune,Electrical Repair,2026-03-12,1781,0,0,0
+B0241,P001,Bengaluru,AC Repair & Service,2026-01-18,2113,1,1,0
+B0242,P040,Hyderabad,Salon for Men,2026-03-26,1238,0,0,0
+B0243,P016,Mumbai,Salon for Men,2026-02-02,1096,0,1,0
+B0244,P015,Mumbai,Salon for Women,2026-02-22,3319,0,0,0
+B0245,P045,Chennai,Deep Home Cleaning,2026-01-04,1657,0,0,0
+B0246,P024,Delhi NCR,AC Repair & Service,2026-02-28,1206,0,0,0
+B0247,P036,Hyderabad,Salon for Men,2026-03-09,1208,0,1,0
+B0248,P018,Delhi NCR,Deep Home Cleaning,2026-02-06,2984,0,0,0
+B0249,P026,Pune,Salon for Men,2026-01-21,1186,0,1,0
+B0250,P044,Chennai,Electrical Repair,2026-03-21,1895,0,0,0
+B0251,P037,Hyderabad,Deep Home Cleaning,2026-03-21,2357,0,0,0
+B0252,P016,Mumbai,Salon for Men,2026-02-28,1240,0,0,0
+B0253,P033,Hyderabad,Plumbing,2026-02-27,1313,0,0,0
+B0254,P020,Delhi NCR,Deep Home Cleaning,2026-03-26,1922,0,0,0
+B0255,P023,Delhi NCR,Salon for Women,2026-01-24,1801,1,0,0
+B0256,P008,Bengaluru,Salon for Women,2026-02-21,2212,0,1,0
+B0257,P037,Hyderabad,Deep Home Cleaning,2026-03-13,1961,0,0,0
+B0258,P032,Pune,Deep Home Cleaning,2026-01-27,4222,0,0,0
+B0259,P022,Delhi NCR,Plumbing,2026-02-14,450,0,0,0
+B0260,P015,Mumbai,Salon for Women,2026-02-08,2857,0,0,0
+B0261,P048,Chennai,Plumbing,2026-02-26,1196,0,1,0
+B0262,P041,Chennai,Plumbing,2026-03-17,1099,0,0,0
+B0263,P046,Chennai,Deep Home Cleaning,2026-02-20,1145,0,0,0
+B0264,P036,Hyderabad,Salon for Men,2026-03-24,1064,0,0,0
+B0265,P020,Delhi NCR,Deep Home Cleaning,2026-03-28,2219,0,0,0
+B0266,P029,Pune,Deep Home Cleaning,2026-02-15,3517,0,0,0
+B0267,P036,Hyderabad,Salon for Men,2026-01-05,1414,0,0,0
+B0268,P032,Pune,Deep Home Cleaning,2026-02-10,3453,0,1,0
+B0269,P014,Mumbai,Electrical Repair,2026-01-08,1349,0,0,0
+B0270,P002,Bengaluru,Salon for Men,2026-03-04,671,1,1,0
+B0271,P029,Pune,Deep Home Cleaning,2026-01-28,4756,0,0,0
+B0272,P004,Bengaluru,Electrical Repair,2026-03-02,1152,0,0,0
+B0273,P028,Pune,Electrical Repair,2026-03-05,423,0,0,0
+B0274,P013,Mumbai,AC Repair & Service,2026-02-15,511,0,0,0
+B0275,P011,Mumbai,Deep Home Cleaning,2026-03-31,1247,0,0,0
+B0276,P006,Bengaluru,AC Repair & Service,2026-03-16,1316,0,0,0
+B0277,P011,Mumbai,Deep Home Cleaning,2026-02-09,4664,1,0,0
+B0278,P013,Mumbai,AC Repair & Service,2026-02-25,1306,1,0,0
+B0279,P007,Bengaluru,Deep Home Cleaning,2026-01-23,4097,1,0,0
+B0280,P027,Pune,Salon for Women,2026-03-28,2105,1,0,0
+B0281,P043,Chennai,Plumbing,2026-01-07,820,0,0,0
+B0282,P002,Bengaluru,Salon for Men,2026-01-10,1303,0,0,0
+B0283,P035,Hyderabad,Electrical Repair,2026-02-10,1709,0,0,0
+B0284,P027,Pune,Salon for Women,2026-03-20,2501,0,0,0
+B0285,P018,Delhi NCR,Deep Home Cleaning,2026-02-27,1730,1,0,0
+B0286,P009,Mumbai,Deep Home Cleaning,2026-01-02,3302,0,0,0
+B0287,P041,Chennai,Plumbing,2026-03-05,202,0,0,0
+B0288,P047,Chennai,Plumbing,2026-01-01,348,0,0,0
+B0289,P001,Bengaluru,AC Repair & Service,2026-03-15,1867,0,0,0
+B0290,P032,Pune,Deep Home Cleaning,2026-02-02,1153,0,0,0
+B0291,P033,Hyderabad,Plumbing,2026-03-09,1044,0,0,0
+B0292,P033,Hyderabad,Plumbing,2026-01-04,1275,0,0,0
+B0293,P037,Hyderabad,Deep Home Cleaning,2026-01-10,4571,1,0,0
+B0294,P047,Chennai,Plumbing,2026-03-06,1043,0,0,0
+B0295,P038,Hyderabad,Electrical Repair,2026-01-18,801,0,0,0
+B0296,P036,Hyderabad,Salon for Men,2026-02-27,1037,0,0,0
+B0297,P023,Delhi NCR,Salon for Women,2026-01-27,1618,0,0,0
+B0298,P042,Chennai,Deep Home Cleaning,2026-02-08,4112,0,0,0
+B0299,P029,Pune,Deep Home Cleaning,2026-03-24,1590,1,0,0
+B0300,P022,Delhi NCR,Plumbing,2026-02-20,703,1,0,0
+B0301,P025,Pune,Deep Home Cleaning,2026-01-18,3509,0,0,0
+B0302,P006,Bengaluru,AC Repair & Service,2026-02-17,2456,0,1,0
+B0303,P044,Chennai,Electrical Repair,2026-01-18,1980,0,0,0
+B0304,P029,Pune,Deep Home Cleaning,2026-03-27,3531,0,0,0
+B0305,P026,Pune,Salon for Men,2026-03-11,360,0,0,0
+B0306,P017,Delhi NCR,Electrical Repair,2026-02-21,1275,1,1,0
+B0307,P016,Mumbai,Salon for Men,2026-03-25,646,1,1,0
+B0308,P035,Hyderabad,Electrical Repair,2026-02-27,1249,0,0,0
+B0309,P025,Pune,Deep Home Cleaning,2026-01-31,2942,0,0,0
+B0310,P028,Pune,Electrical Repair,2026-01-25,1337,1,0,0
+B0311,P036,Hyderabad,Salon for Men,2026-03-24,475,0,0,0
+B0312,P029,Pune,Deep Home Cleaning,2026-03-07,3940,0,0,0
+B0313,P046,Chennai,Deep Home Cleaning,2026-02-16,1300,1,1,0
+B0314,P031,Pune,Salon for Women,2026-03-17,2332,0,0,0
+B0315,P026,Pune,Salon for Men,2026-02-08,983,0,0,0
+B0316,P035,Hyderabad,Electrical Repair,2026-02-11,1302,0,0,0
+B0317,P028,Pune,Electrical Repair,2026-03-19,1238,0,0,0
+B0318,P008,Bengaluru,Salon for Women,2026-03-20,2786,0,0,0
+B0319,P046,Chennai,Deep Home Cleaning,2026-01-14,1947,0,0,0
+B0320,P026,Pune,Salon for Men,2026-02-22,1396,0,0,0
+B0321,P020,Delhi NCR,Deep Home Cleaning,2026-02-13,2247,0,0,0
+B0322,P014,Mumbai,Electrical Repair,2026-01-23,655,0,0,0
+B0323,P008,Bengaluru,Salon for Women,2026-01-18,2720,0,0,0
+B0324,P045,Chennai,Deep Home Cleaning,2026-02-16,4166,1,1,0
+B0325,P004,Bengaluru,Electrical Repair,2026-03-18,1996,0,0,0
+B0326,P034,Hyderabad,Salon for Women,2026-03-13,3386,0,0,0
+B0327,P023,Delhi NCR,Salon for Women,2026-03-19,1584,1,0,0
+B0328,P008,Bengaluru,Salon for Women,2026-02-08,3283,0,0,0
+B0329,P028,Pune,Electrical Repair,2026-03-09,1610,0,0,0
+B0330,P048,Chennai,Plumbing,2026-01-12,436,0,0,0
+B0331,P017,Delhi NCR,Electrical Repair,2026-03-26,1995,0,0,0
+B0332,P042,Chennai,Deep Home Cleaning,2026-03-24,4153,0,0,0
+B0333,P041,Chennai,Plumbing,2026-02-09,1162,0,1,0
+B0334,P028,Pune,Electrical Repair,2026-03-02,1409,0,0,0
+B0335,P044,Chennai,Electrical Repair,2026-01-06,353,0,0,0
+B0336,P040,Hyderabad,Salon for Men,2026-03-14,725,0,0,0
+B0337,P022,Delhi NCR,Plumbing,2026-02-25,1458,1,0,0
+B0338,P001,Bengaluru,AC Repair & Service,2026-02-17,2429,0,0,0
+B0339,P030,Pune,Electrical Repair,2026-02-10,938,0,0,0
+B0340,P020,Delhi NCR,Deep Home Cleaning,2026-01-21,1800,0,0,0
+B0341,P031,Pune,Salon for Women,2026-01-01,3294,0,0,0
+B0342,P040,Hyderabad,Salon for Men,2026-01-04,863,0,0,0
+B0343,P002,Bengaluru,Salon for Men,2026-01-20,877,0,0,0
+B0344,P043,Chennai,Plumbing,2026-02-09,623,1,0,0
+B0345,P026,Pune,Salon for Men,2026-01-07,517,0,0,0
+B0346,P046,Chennai,Deep Home Cleaning,2026-02-26,3946,1,0,0
+B0347,P038,Hyderabad,Electrical Repair,2026-01-09,1129,0,0,0
+B0348,P025,Pune,Deep Home Cleaning,2026-02-24,2949,0,0,0
+B0349,P003,Bengaluru,AC Repair & Service,2026-03-24,1237,0,0,0
+B0350,P024,Delhi NCR,AC Repair & Service,2026-03-26,1822,1,0,0
+B0351,P006,Bengaluru,AC Repair & Service,2026-02-17,1426,0,0,0
+B0352,P045,Chennai,Deep Home Cleaning,2026-03-26,3868,0,0,0
+B0353,P043,Chennai,Plumbing,2026-01-03,428,0,1,0
+B0354,P001,Bengaluru,AC Repair & Service,2026-03-06,1653,0,0,0
+B0355,P008,Bengaluru,Salon for Women,2026-01-23,2785,0,0,0
+B0356,P001,Bengaluru,AC Repair & Service,2026-03-26,540,0,0,0
+B0357,P036,Hyderabad,Salon for Men,2026-01-01,1259,0,1,0
+B0358,P007,Bengaluru,Deep Home Cleaning,2026-02-15,2891,0,0,0
+B0359,P025,Pune,Deep Home Cleaning,2026-02-06,3689,0,0,0
+B0360,P043,Chennai,Plumbing,2026-03-07,1045,0,0,0
+B0361,P048,Chennai,Plumbing,2026-03-12,1487,0,0,0
+B0362,P044,Chennai,Electrical Repair,2026-03-10,440,0,0,0
+B0363,P037,Hyderabad,Deep Home Cleaning,2026-01-19,1583,0,0,0
+B0364,P034,Hyderabad,Salon for Women,2026-02-07,2586,0,1,0
+B0365,P039,Hyderabad,Deep Home Cleaning,2026-03-24,3925,0,0,0
+B0366,P023,Delhi NCR,Salon for Women,2026-02-26,3174,0,0,0
+B0367,P002,Bengaluru,Salon for Men,2026-01-08,1423,0,1,0
+B0368,P012,Mumbai,AC Repair & Service,2026-01-17,1402,0,1,0
+B0369,P006,Bengaluru,AC Repair & Service,2026-01-21,2075,0,0,0
+B0370,P019,Delhi NCR,Plumbing,2026-03-26,360,0,0,0
+B0371,P035,Hyderabad,Electrical Repair,2026-01-12,1934,0,0,0
+B0372,P038,Hyderabad,Electrical Repair,2026-03-29,527,1,0,0
+B0373,P037,Hyderabad,Deep Home Cleaning,2026-01-12,3449,0,0,0
+B0374,P011,Mumbai,Deep Home Cleaning,2026-03-19,3574,0,0,0
+B0375,P001,Bengaluru,AC Repair & Service,2026-01-26,2336,0,0,0
+B0376,P004,Bengaluru,Electrical Repair,2026-02-10,1090,0,0,0
+B0377,P014,Mumbai,Electrical Repair,2026-02-18,1201,0,1,0
+B0378,P033,Hyderabad,Plumbing,2026-03-29,581,0,1,0
+B0379,P032,Pune,Deep Home Cleaning,2026-03-21,1807,0,0,0
+B0380,P031,Pune,Salon for Women,2026-02-28,2947,0,0,0
+B0381,P016,Mumbai,Salon for Men,2026-01-07,456,0,0,0
+B0382,P048,Chennai,Plumbing,2026-01-28,507,0,0,0
+B0383,P022,Delhi NCR,Plumbing,2026-03-28,1172,0,0,0
+B0384,P008,Bengaluru,Salon for Women,2026-02-02,2005,0,0,0
+B0385,P031,Pune,Salon for Women,2026-03-18,2262,0,0,0
+B0386,P006,Bengaluru,AC Repair & Service,2026-01-20,1489,0,0,0
+B0387,P008,Bengaluru,Salon for Women,2026-01-14,1227,0,1,0
+B0388,P030,Pune,Electrical Repair,2026-01-10,1696,0,0,0
+B0389,P001,Bengaluru,AC Repair & Service,2026-03-16,1713,0,0,0
+B0390,P019,Delhi NCR,Plumbing,2026-01-12,508,0,0,0
+B0391,P012,Mumbai,AC Repair & Service,2026-02-01,1951,1,0,0
+B0392,P022,Delhi NCR,Plumbing,2026-01-28,629,0,1,0
+B0393,P007,Bengaluru,Deep Home Cleaning,2026-02-12,3283,0,0,0
+B0394,P026,Pune,Salon for Men,2026-01-15,1409,0,0,0
+B0395,P029,Pune,Deep Home Cleaning,2026-01-21,2290,0,0,0
+B0396,P014,Mumbai,Electrical Repair,2026-01-16,1795,0,0,0
+B0397,P018,Delhi NCR,Deep Home Cleaning,2026-03-22,2053,0,0,0
+B0398,P039,Hyderabad,Deep Home Cleaning,2026-03-06,2372,0,0,0
+B0399,P002,Bengaluru,Salon for Men,2026-01-23,1456,1,0,0
+B0400,P043,Chennai,Plumbing,2026-01-13,745,0,0,0
+B0401,P026,Pune,Salon for Men,2026-02-14,1075,0,0,0
+B0402,P045,Chennai,Deep Home Cleaning,2026-03-30,3546,0,0,0
+B0403,P045,Chennai,Deep Home Cleaning,2026-02-17,4663,0,0,0
+B0404,P023,Delhi NCR,Salon for Women,2026-02-21,2698,0,0,0
+B0405,P002,Bengaluru,Salon for Men,2026-03-25,1260,1,1,0
+B0406,P047,Chennai,Plumbing,2026-02-14,222,0,0,0
+B0407,P024,Delhi NCR,AC Repair & Service,2026-03-29,1264,0,0,0
+B0408,P027,Pune,Salon for Women,2026-02-03,2241,0,1,0
+B0409,P006,Bengaluru,AC Repair & Service,2026-02-14,2378,0,0,0
+B0410,P046,Chennai,Deep Home Cleaning,2026-03-21,3096,0,0,0
+B0411,P010,Mumbai,Salon for Men,2026-01-19,389,0,0,0
+B0412,P041,Chennai,Plumbing,2026-01-20,469,0,1,0
+B0413,P017,Delhi NCR,Electrical Repair,2026-03-30,612,0,0,0
+B0414,P018,Delhi NCR,Deep Home Cleaning,2026-01-06,2114,0,0,0
+B0415,P042,Chennai,Deep Home Cleaning,2026-01-23,3256,0,0,0
+B0416,P006,Bengaluru,AC Repair & Service,2026-02-12,896,0,0,0
+B0417,P016,Mumbai,Salon for Men,2026-01-07,893,0,0,0
+B0418,P035,Hyderabad,Electrical Repair,2026-01-07,1351,0,0,0
+B0419,P040,Hyderabad,Salon for Men,2026-02-16,1229,1,0,0
+B0420,P006,Bengaluru,AC Repair & Service,2026-02-01,1911,0,0,0
+B0421,P027,Pune,Salon for Women,2026-03-30,3241,0,0,0
+B0422,P010,Mumbai,Salon for Men,2026-02-25,1031,0,0,0
+B0423,P001,Bengaluru,AC Repair & Service,2026-01-15,763,0,0,0
+B0424,P042,Chennai,Deep Home Cleaning,2026-02-06,1702,0,0,0
+B0425,P042,Chennai,Deep Home Cleaning,2026-01-29,2242,0,0,0
+B0426,P033,Hyderabad,Plumbing,2026-03-20,888,0,0,0
+B0427,P013,Mumbai,AC Repair & Service,2026-03-31,1779,0,0,0
+B0428,P015,Mumbai,Salon for Women,2026-01-16,1328,0,1,0
+B0429,P047,Chennai,Plumbing,2026-03-31,584,0,0,0
+B0430,P016,Mumbai,Salon for Men,2026-01-05,1085,0,0,0
+B0431,P017,Delhi NCR,Electrical Repair,2026-02-05,762,0,0,0
+B0432,P001,Bengaluru,AC Repair & Service,2026-02-28,1191,0,0,0
+B0433,P020,Delhi NCR,Deep Home Cleaning,2026-01-13,3380,0,0,0
+B0434,P046,Chennai,Deep Home Cleaning,2026-02-05,2704,0,0,0
+B0435,P004,Bengaluru,Electrical Repair,2026-01-26,1950,1,0,0
+B0436,P014,Mumbai,Electrical Repair,2026-02-18,795,0,0,0
+B0437,P039,Hyderabad,Deep Home Cleaning,2026-03-08,3875,0,0,0
+B0438,P025,Pune,Deep Home Cleaning,2026-01-01,2657,0,0,0
+B0439,P048,Chennai,Plumbing,2026-01-22,1259,0,0,0
+B0440,P017,Delhi NCR,Electrical Repair,2026-03-27,1242,0,0,0
+B0441,P010,Mumbai,Salon for Men,2026-03-25,671,1,0,0
+B0442,P039,Hyderabad,Deep Home Cleaning,2026-03-14,4587,0,0,0
+B0443,P013,Mumbai,AC Repair & Service,2026-02-23,996,1,0,0
+B0444,P033,Hyderabad,Plumbing,2026-02-19,280,0,0,0
+B0445,P024,Delhi NCR,AC Repair & Service,2026-01-14,1393,0,0,0
+B0446,P010,Mumbai,Salon for Men,2026-02-04,1107,0,0,0
+B0447,P003,Bengaluru,AC Repair & Service,2026-01-11,1160,0,0,0
+B0448,P017,Delhi NCR,Electrical Repair,2026-02-19,369,0,0,0
+B0449,P002,Bengaluru,Salon for Men,2026-02-18,1084,0,0,0
+B0450,P006,Bengaluru,AC Repair & Service,2026-01-06,1866,0,0,0
+B0451,P047,Chennai,Plumbing,2026-01-21,1389,0,0,0
+B0452,P012,Mumbai,AC Repair & Service,2026-03-20,2125,0,0,0
+B0453,P011,Mumbai,Deep Home Cleaning,2026-02-10,1716,0,0,0
+B0454,P016,Mumbai,Salon for Men,2026-03-13,1308,0,0,0
+B0455,P009,Mumbai,Deep Home Cleaning,2026-01-24,2012,0,1,0
+B0456,P017,Delhi NCR,Electrical Repair,2026-03-11,768,0,0,0
+B0457,P043,Chennai,Plumbing,2026-01-12,829,0,0,0
+B0458,P008,Bengaluru,Salon for Women,2026-02-06,1758,0,0,0
+B0459,P037,Hyderabad,Deep Home Cleaning,2026-03-20,4259,0,0,0
+B0460,P023,Delhi NCR,Salon for Women,2026-03-23,2929,0,0,0
+B0461,P034,Hyderabad,Salon for Women,2026-02-25,3499,0,0,0
+B0462,P038,Hyderabad,Electrical Repair,2026-01-24,456,0,0,0
+B0463,P003,Bengaluru,AC Repair & Service,2026-02-19,1414,0,0,0
+B0464,P040,Hyderabad,Salon for Men,2026-03-02,766,0,1,0
+B0465,P006,Bengaluru,AC Repair & Service,2026-03-02,1594,0,0,0
+B0466,P037,Hyderabad,Deep Home Cleaning,2026-02-06,3993,0,0,0
+B0467,P031,Pune,Salon for Women,2026-03-30,1836,0,0,0
+B0468,P041,Chennai,Plumbing,2026-02-20,1164,1,0,0
+B0469,P035,Hyderabad,Electrical Repair,2026-03-05,1809,0,1,0
+B0470,P023,Delhi NCR,Salon for Women,2026-01-15,1458,0,0,0
+B0471,P019,Delhi NCR,Plumbing,2026-01-05,1385,0,0,0
+B0472,P005,Bengaluru,Deep Home Cleaning,2026-03-02,1454,0,0,0
+B0473,P019,Delhi NCR,Plumbing,2026-01-30,1055,0,0,0
+B0474,P034,Hyderabad,Salon for Women,2026-02-19,1854,1,0,0
+B0475,P008,Bengaluru,Salon for Women,2026-01-16,848,0,0,0
+B0476,P032,Pune,Deep Home Cleaning,2026-02-14,1505,0,0,0
+B0477,P032,Pune,Deep Home Cleaning,2026-02-08,4481,1,1,0
+B0478,P012,Mumbai,AC Repair & Service,2026-02-15,1359,0,0,0
+B0479,P029,Pune,Deep Home Cleaning,2026-03-10,4563,0,1,0
+B0480,P042,Chennai,Deep Home Cleaning,2026-03-17,4666,0,0,0
+B0481,P044,Chennai,Electrical Repair,2026-01-03,660,0,0,0
+B0482,P038,Hyderabad,Electrical Repair,2026-01-09,705,0,0,0
+B0483,P004,Bengaluru,Electrical Repair,2026-03-09,1243,0,0,0
+B0484,P035,Hyderabad,Electrical Repair,2026-02-20,787,1,0,0
+B0485,P016,Mumbai,Salon for Men,2026-03-05,959,0,0,0
+B0486,P016,Mumbai,Salon for Men,2026-03-18,1323,0,0,0
+B0487,P036,Hyderabad,Salon for Men,2026-02-24,1276,0,0,0
+B0488,P032,Pune,Deep Home Cleaning,2026-02-15,2936,0,1,0
+B0489,P001,Bengaluru,AC Repair & Service,2026-03-25,1646,0,1,0
+B0490,P020,Delhi NCR,Deep Home Cleaning,2026-03-15,1371,1,0,0
+B0491,P047,Chennai,Plumbing,2026-02-20,898,0,0,0
+B0492,P003,Bengaluru,AC Repair & Service,2026-02-11,1497,0,1,0
+B0493,P037,Hyderabad,Deep Home Cleaning,2026-01-17,2907,0,1,0
+B0494,P032,Pune,Deep Home Cleaning,2026-02-14,3616,0,0,0
+B0495,P041,Chennai,Plumbing,2026-03-07,884,0,0,0
+B0496,P011,Mumbai,Deep Home Cleaning,2026-01-30,2389,0,0,0
+B0497,P045,Chennai,Deep Home Cleaning,2026-03-08,2879,1,0,0
+B0498,P038,Hyderabad,Electrical Repair,2026-03-05,441,0,0,0
+B0499,P044,Chennai,Electrical Repair,2026-03-01,885,0,0,0
+B0500,P016,Mumbai,Salon for Men,2026-01-18,1494,0,0,0
+B0501,P028,Pune,Electrical Repair,2026-01-03,853,0,0,0
+B0502,P045,Chennai,Deep Home Cleaning,2026-01-04,1310,0,0,0
+B0503,P022,Delhi NCR,Plumbing,2026-01-04,693,0,0,0
+B0504,P018,Delhi NCR,Deep Home Cleaning,2026-01-29,3135,0,0,0
+B0505,P004,Bengaluru,Electrical Repair,2026-01-08,1508,0,0,0
+B0506,P011,Mumbai,Deep Home Cleaning,2026-03-22,4769,0,0,0
+B0507,P003,Bengaluru,AC Repair & Service,2026-03-04,1119,0,0,1
+B0508,P037,Hyderabad,Deep Home Cleaning,2026-02-23,3918,1,0,0
+B0509,P024,Delhi NCR,AC Repair & Service,2026-01-02,1869,0,0,0
+B0510,P033,Hyderabad,Plumbing,2026-03-02,1417,0,0,0
+B0511,P001,Bengaluru,AC Repair & Service,2026-01-14,1637,0,1,0
+B0512,P011,Mumbai,Deep Home Cleaning,2026-01-06,1846,0,0,0
+B0513,P006,Bengaluru,AC Repair & Service,2026-01-04,1108,0,0,0
+B0514,P046,Chennai,Deep Home Cleaning,2026-02-04,1043,0,1,0
+B0515,P008,Bengaluru,Salon for Women,2026-01-09,914,0,0,0
+B0516,P017,Delhi NCR,Electrical Repair,2026-02-25,381,0,0,0
+B0517,P014,Mumbai,Electrical Repair,2026-02-03,894,0,0,0
+B0518,P044,Chennai,Electrical Repair,2026-01-23,464,0,0,0
+B0519,P027,Pune,Salon for Women,2026-02-07,2092,0,0,0
+B0520,P006,Bengaluru,AC Repair & Service,2026-01-15,1121,0,0,0
+B0521,P010,Mumbai,Salon for Men,2026-01-18,807,0,0,0
+B0522,P037,Hyderabad,Deep Home Cleaning,2026-02-26,1589,0,0,0
+B0523,P018,Delhi NCR,Deep Home Cleaning,2026-03-31,1631,0,0,0
+B0524,P038,Hyderabad,Electrical Repair,2026-01-19,602,0,1,0
+B0525,P039,Hyderabad,Deep Home Cleaning,2026-02-03,4488,0,0,0
+B0526,P028,Pune,Electrical Repair,2026-03-10,841,0,0,0
+B0527,P014,Mumbai,Electrical Repair,2026-03-08,938,0,0,0
+B0528,P039,Hyderabad,Deep Home Cleaning,2026-02-25,4827,0,0,0
+B0529,P045,Chennai,Deep Home Cleaning,2026-01-25,1587,0,0,0
+B0530,P036,Hyderabad,Salon for Men,2026-02-28,551,0,0,0
+B0531,P037,Hyderabad,Deep Home Cleaning,2026-03-03,1637,0,0,0
+B0532,P039,Hyderabad,Deep Home Cleaning,2026-01-13,1480,0,1,0
+B0533,P035,Hyderabad,Electrical Repair,2026-03-30,1376,0,0,0
+B0534,P036,Hyderabad,Salon for Men,2026-03-29,1172,0,1,0
+B0535,P035,Hyderabad,Electrical Repair,2026-01-18,738,0,0,0
+B0536,P003,Bengaluru,AC Repair & Service,2026-03-14,642,0,0,0
+B0537,P016,Mumbai,Salon for Men,2026-02-08,964,0,0,0
+B0538,P012,Mumbai,AC Repair & Service,2026-02-22,1466,0,0,0
+B0539,P006,Bengaluru,AC Repair & Service,2026-03-15,2352,0,0,0
+B0540,P010,Mumbai,Salon for Men,2026-02-08,1049,0,0,0
+B0541,P020,Delhi NCR,Deep Home Cleaning,2026-02-08,3137,1,0,0
+B0542,P033,Hyderabad,Plumbing,2026-02-04,593,1,0,0
+B0543,P007,Bengaluru,Deep Home Cleaning,2026-01-29,4429,0,0,0
+B0544,P021,Delhi NCR,AC Repair & Service,2026-01-24,519,0,0,0
+B0545,P042,Chennai,Deep Home Cleaning,2026-03-29,4060,0,0,0
+B0546,P018,Delhi NCR,Deep Home Cleaning,2026-02-07,1642,0,0,0
+B0547,P009,Mumbai,Deep Home Cleaning,2026-02-22,2863,0,0,0
+B0548,P047,Chennai,Plumbing,2026-02-17,1410,0,0,0
+B0549,P026,Pune,Salon for Men,2026-02-21,1163,0,0,0
+B0550,P012,Mumbai,AC Repair & Service,2026-02-01,879,0,0,0
+B0551,P041,Chennai,Plumbing,2026-01-14,1049,0,0,0
+B0552,P037,Hyderabad,Deep Home Cleaning,2026-03-18,2075,0,0,0
+B0553,P041,Chennai,Plumbing,2026-02-08,1083,0,0,0
+B0554,P037,Hyderabad,Deep Home Cleaning,2026-01-18,3236,0,0,0
+B0555,P032,Pune,Deep Home Cleaning,2026-02-03,3799,0,0,0
+B0556,P011,Mumbai,Deep Home Cleaning,2026-01-12,2056,0,0,0
+B0557,P018,Delhi NCR,Deep Home Cleaning,2026-03-02,2392,1,0,0
+B0558,P014,Mumbai,Electrical Repair,2026-03-13,235,0,0,0
+B0559,P013,Mumbai,AC Repair & Service,2026-03-24,2034,1,1,0
+B0560,P018,Delhi NCR,Deep Home Cleaning,2026-03-18,3930,0,0,0
+B0561,P004,Bengaluru,Electrical Repair,2026-03-05,1496,0,0,0
+B0562,P003,Bengaluru,AC Repair & Service,2026-03-23,1247,0,0,0
+B0563,P038,Hyderabad,Electrical Repair,2026-01-11,1024,0,0,0
+B0564,P010,Mumbai,Salon for Men,2026-02-13,970,0,1,0
+B0565,P019,Delhi NCR,Plumbing,2026-02-22,881,0,0,0
+B0566,P007,Bengaluru,Deep Home Cleaning,2026-01-18,2054,0,0,0
+B0567,P018,Delhi NCR,Deep Home Cleaning,2026-01-28,3561,0,0,0
+B0568,P030,Pune,Electrical Repair,2026-03-11,743,0,0,0
+B0569,P008,Bengaluru,Salon for Women,2026-02-24,2246,0,0,0
+B0570,P021,Delhi NCR,AC Repair & Service,2026-03-30,1947,0,0,0
+B0571,P045,Chennai,Deep Home Cleaning,2026-01-02,1920,0,0,0
+B0572,P002,Bengaluru,Salon for Men,2026-03-25,1405,0,0,0
+B0573,P015,Mumbai,Salon for Women,2026-03-27,1949,0,0,0
+B0574,P047,Chennai,Plumbing,2026-02-10,1037,0,1,0
+B0575,P024,Delhi NCR,AC Repair & Service,2026-02-08,2118,0,0,0
+B0576,P023,Delhi NCR,Salon for Women,2026-01-07,3024,0,0,0
+B0577,P006,Bengaluru,AC Repair & Service,2026-03-13,1563,0,0,0
+B0578,P041,Chennai,Plumbing,2026-02-26,857,1,0,0
+B0579,P020,Delhi NCR,Deep Home Cleaning,2026-03-07,2678,0,0,0
+B0580,P027,Pune,Salon for Women,2026-01-13,2245,0,0,0
+B0581,P027,Pune,Salon for Women,2026-01-02,2648,0,0,0
+B0582,P008,Bengaluru,Salon for Women,2026-03-28,3340,0,0,0
+B0583,P014,Mumbai,Electrical Repair,2026-03-13,1328,0,0,0
+B0584,P039,Hyderabad,Deep Home Cleaning,2026-03-16,4272,0,0,0
+B0585,P044,Chennai,Electrical Repair,2026-03-01,366,0,0,0
+B0586,P031,Pune,Salon for Women,2026-02-25,3457,0,0,0
+B0587,P027,Pune,Salon for Women,2026-02-02,1684,0,0,0
+B0588,P047,Chennai,Plumbing,2026-03-18,243,0,0,0
+B0589,P041,Chennai,Plumbing,2026-03-24,302,0,1,0
+B0590,P002,Bengaluru,Salon for Men,2026-01-10,624,1,0,0
+B0591,P027,Pune,Salon for Women,2026-01-01,756,1,0,0
+B0592,P004,Bengaluru,Electrical Repair,2026-02-18,1820,0,1,0
+B0593,P033,Hyderabad,Plumbing,2026-01-01,1325,0,0,0
+B0594,P019,Delhi NCR,Plumbing,2026-02-20,366,0,1,0
+B0595,P028,Pune,Electrical Repair,2026-03-26,577,0,0,0
+B0596,P030,Pune,Electrical Repair,2026-01-11,1432,0,0,0
+B0597,P009,Mumbai,Deep Home Cleaning,2026-03-01,2443,0,0,0
+B0598,P035,Hyderabad,Electrical Repair,2026-02-24,1463,0,0,0
+B0599,P006,Bengaluru,AC Repair & Service,2026-01-02,796,0,1,0
+B0600,P013,Mumbai,AC Repair & Service,2026-02-09,2332,1,1,0
