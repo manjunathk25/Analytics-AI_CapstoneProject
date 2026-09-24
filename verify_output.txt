@@ -1,0 +1,4 @@
+#Verification Results:
+#categories: 7
+#partners_import: 52
+#bookings: 600
