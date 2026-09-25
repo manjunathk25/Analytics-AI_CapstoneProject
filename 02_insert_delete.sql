@@ -19,3 +19,8 @@ VALUES('B9001','P009','Mumbai','Deep Home Cleaning','2026-03-31',3400,0,0,0),
 -- Total amount_inr: ₹10,47,973
 SELECT COUNT(*) total_bookings, SUM(amount_inr) total_revenue_inr
 FROM bookings;
+
+-- LIKE with % to find every partner whose primary_category starts with "Salon"
+SELECT *
+FROM partners
+WHERE primary_category LIKE 'Salon%';
